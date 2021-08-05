@@ -1,0 +1,777 @@
+.lineleft {
+  margin-top: -90px;
+  margin-left: 50px;
+}
+
+.lineright {
+  margin-top: -90px;
+  margin-left: 210px;
+}
+
+.LogoKotaBitung {
+  width: 78px !important;
+  height: 80px !important;
+  margin-left: 10px;
+}
+
+.title-footer {
+  margin-left: 105px;
+  margin-top: -75px;
+  font-weight: bold;
+}
+
+.text-portal {
+  width: 282px;
+  height: 42px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 0.05em;
+  margin-left: 105px;
+  margin-top: -10px;
+}
+
+.text {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 0.05em;
+  margin-left: 20px;
+}
+
+.styling2 {
+  margin-top: 10px;
+}
+
+.styling3 {
+  margin-top: 10px;
+}
+
+.medsos {
+  margin-left: 980px;
+  margin-top: -115px;
+}
+
+.twitt {
+  margin-left: 20px;
+}
+
+.ig {
+  margin-left: 20px;
+}
+
+.yt {
+  margin-left: 20px;
+}
+
+.sosmed {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  margin-left: 85px;
+  margin-top: -100px;
+}
+
+@media screen and (max-width: 1399.98px) {
+  .lineleft {
+    margin-top: -90px;
+    margin-left: 5px;
+  }
+
+  .lineright {
+    margin-top: -90px;
+    margin-left: 210px;
+  }
+
+  .LogoKotaBitung {
+    width: 78px !important;
+    height: 80px !important;
+    margin-left: -10px;
+  }
+
+  .title-footer {
+    margin-left: 85px;
+    margin-top: -75px;
+    font-weight: bold;
+  }
+
+  .text-portal {
+    width: 282px;
+    height: 42px;
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.05em;
+    margin-left: 85px;
+    margin-top: -10px;
+  }
+
+  .text {
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.05em;
+    margin-left: -10px;
+  }
+
+  .styling2 {
+    margin-top: 10px;
+  }
+
+  .styling3 {
+    margin-top: 10px;
+  }
+
+  .medsos {
+    margin-left: 880px;
+    margin-top: -115px;
+  }
+
+  .twitt {
+    margin-left: 20px;
+  }
+
+  .ig {
+    margin-left: 20px;
+  }
+
+  .yt {
+    margin-left: 20px;
+  }
+
+  .sosmed {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    margin-left: 85px;
+  }
+
+  .end {
+    margin-top: 10px;
+  }
+}
+
+@media screen and (max-width: 1199.98px) {
+  .lineleft {
+    margin-top: -90px;
+    margin-left: -90px;
+    display: none;
+  }
+
+  .lineright {
+    margin-top: -90px;
+    margin-left: 210px;
+    display: none;
+  }
+
+  .LogoKotaBitung {
+    width: 78px !important;
+    height: 80px !important;
+    margin-left: -10px;
+  }
+
+  .title-footer {
+    margin-left: 85px;
+    margin-top: -75px;
+    font-weight: bold;
+  }
+
+  .main-footer {
+    margin-top: 30px;
+  }
+
+  .text-portal {
+    width: 282px;
+    height: 42px;
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.05em;
+    margin-left: 85px;
+    margin-top: -10px;
+  }
+
+  .text {
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 21px;
+    letter-spacing: 0.05em;
+    margin-left: -10px;
+  }
+
+  .styling2 {
+    margin-top: 10px;
+  }
+
+  .styling3 {
+    margin-top: 10px;
+  }
+
+  .medsos {
+    margin-left: 740px;
+    margin-top: 450px;
+  }
+
+  .twitt {
+    margin-left: 20px;
+  }
+
+  .ig {
+    margin-left: 20px;
+  }
+
+  .yt {
+    margin-left: 20px;
+  }
+
+  .sosmed {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    margin-left: 85px;
+    margin-top: -105px;
+  }
+
+  .end {
+    margin-top: 10px;
+  }
+}
+
+@media screen and (max-width: 991.98px) {
+  .lineleft {
+    margin-top: -90px;
+    margin-left: -90px;
+    display: none;
+  }
+
+  .lineright {
+    margin-top: -90px;
+    margin-left: 210px;
+    display: none;
+  }
+
+  .LogoKotaBitung {
+    width: 78px !important;
+    height: 80px !important;
+    margin-left: -30px;
+  }
+
+  .title-footer {
+    margin-left: 65px;
+    margin-top: -75px;
+    font-weight: bold;
+  }
+
+  .main-footer {
+    margin-top: 30px;
+  }
+
+  .text-portal {
+    width: 282px;
+    height: 42px;
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.05em;
+    margin-left: 65px;
+    margin-top: -10px;
+  }
+
+  .text {
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0.05em;
+    margin-left: -40px;
+  }
+
+  .styling2 {
+    margin-top: 10px;
+  }
+
+  .styling3 {
+    margin-top: 10px;
+  }
+
+  .medsos {
+    margin-left: 520px;
+    margin-top: 450px;
+  }
+
+  .twitt {
+    margin-left: 20px;
+  }
+
+  .ig {
+    margin-left: 20px;
+  }
+
+  .yt {
+    margin-left: 20px;
+  }
+
+  .sosmed {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    margin-left: 85px;
+    margin-top: -105px;
+  }
+
+  .end {
+    margin-top: 10px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .lineleft {
+    margin-top: -90px;
+    margin-left: -90px;
+    display: none;
+  }
+
+  .lineright {
+    margin-top: -90px;
+    margin-left: 210px;
+    display: none;
+  }
+
+  .LogoKotaBitung {
+    width: 68px !important;
+    height: 70px !important;
+    margin-left: -20px;
+  }
+
+  .title-footer {
+    margin-left: 65px;
+    margin-top: -75px;
+    font-weight: bold;
+  }
+
+  .main-footer {
+    margin-top: 30px;
+  }
+
+  .text-portal {
+    width: 282px;
+    height: 42px;
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.05em;
+    margin-left: 65px;
+    margin-top: -10px;
+  }
+
+  .text {
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 21px;
+    letter-spacing: 0.05em;
+    margin-left: -10px;
+  }
+
+  .styling2 {
+    margin-top: 10px;
+  }
+
+  .styling3 {
+    margin-top: 10px;
+  }
+
+  .medsos {
+    margin-left: 10px;
+    margin-top: 450px;
+    display: none;
+  }
+
+  .fb {
+    width: 40px;
+    height: 30px;
+  }
+
+  .twitt {
+    width: 40px;
+    height: 30px;
+  }
+
+  .ig {
+    width: 40px;
+    height: 30px;
+  }
+
+  .yt {
+    width: 40px;
+    height: 30px;
+  }
+
+  .sosmed {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    margin-left: 85px;
+    margin-top: -105px;
+  }
+
+  .end {
+    margin-top: 10px;
+    display: none;
+  }
+}
+
+@media screen and (max-width: 575.98px) {
+  .lineleft {
+    margin-top: -90px;
+    margin-left: -90px;
+    display: none;
+  }
+
+  .lineright {
+    margin-top: -90px;
+    margin-left: 210px;
+    display: none;
+  }
+
+  .LogoKotaBitung {
+    width: 68px !important;
+    height: 70px !important;
+    margin-left: 10px;
+  }
+
+  .title-footer {
+    margin-left: 95px;
+    margin-top: -75px;
+    font-weight: bold;
+    font-size: 20px;
+  }
+
+  .main-footer {
+    margin-top: 30px;
+  }
+
+  .text-portal {
+    width: 282px;
+    height: 42px;
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 21px;
+    letter-spacing: 0.05em;
+    margin-left: 95px;
+    margin-top: -10px;
+  }
+
+  .text {
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 21px;
+    letter-spacing: 0.05em;
+    margin-left: 12px;
+    width: 300px;
+  }
+
+  .styling2 {
+    margin-top: 10px;
+  }
+
+  .styling3 {
+    margin-top: 10px;
+  }
+
+  .medsos {
+    margin-left: 10px;
+    margin-top: 450px;
+    display: none;
+  }
+
+  .fb {
+    width: 40px;
+    height: 30px;
+  }
+
+  .twitt {
+    width: 40px;
+    height: 30px;
+  }
+
+  .ig {
+    width: 40px;
+    height: 30px;
+  }
+
+  .yt {
+    width: 40px;
+    height: 30px;
+  }
+
+  .sosmed {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    margin-left: 85px;
+    margin-top: -105px;
+  }
+
+  .end {
+    margin-top: 10px;
+    display: none;
+  }
+
+  .text-akhir {
+    font-size: 12px;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .lineleft {
+    margin-top: -90px;
+    margin-left: -90px;
+    display: none;
+  }
+
+  .lineright {
+    margin-top: -90px;
+    margin-left: 210px;
+    display: none;
+  }
+
+  .LogoKotaBitung {
+    width: 48px !important;
+    height: 50px !important;
+    margin-left: 10px;
+  }
+
+  .title-footer {
+    margin-left: 65px;
+    margin-top: -45px;
+    font-weight: bold;
+    font-size: 16px;
+    width: 350px;
+  }
+
+  .main-footer {
+    margin-top: 30px;
+  }
+
+  .text-portal {
+    width: 282px;
+    height: 42px;
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 21px;
+    letter-spacing: 0.05em;
+    margin-left: 65px;
+    margin-top: -10px;
+  }
+
+  .text {
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 21px;
+    letter-spacing: 0.05em;
+    margin-left: 12px;
+    width: 300px;
+  }
+
+  .styling2 {
+    margin-top: 10px;
+  }
+
+  .styling3 {
+    margin-top: 10px;
+  }
+
+  .medsos {
+    margin-left: 10px;
+    margin-top: 450px;
+    display: none;
+  }
+
+  .fb {
+    width: 40px;
+    height: 30px;
+  }
+
+  .twitt {
+    width: 40px;
+    height: 30px;
+  }
+
+  .ig {
+    width: 40px;
+    height: 30px;
+  }
+
+  .yt {
+    width: 40px;
+    height: 30px;
+  }
+
+  .sosmed {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    margin-left: 85px;
+    margin-top: -105px;
+  }
+
+  .end {
+    margin-top: 10px;
+    display: none;
+  }
+
+  .text-akhir {
+    font-size: 10px;
+  }
+}
+
+@media screen and (max-width: 280px) {
+  .lineleft {
+    margin-top: -90px;
+    margin-left: -90px;
+    display: none;
+  }
+
+  .lineright {
+    margin-top: -90px;
+    margin-left: 210px;
+    display: none;
+  }
+
+  .LogoKotaBitung {
+    width: 38px !important;
+    height: 40px !important;
+    margin-left: 5px;
+  }
+
+  .title-footer {
+    margin-left: 50px;
+    margin-top: -45px;
+    font-weight: bold;
+    font-size: 16px;
+    width: 70px;
+  }
+
+  .main-footer {
+    margin-top: 30px;
+  }
+
+  .text-portal {
+    width: 282px;
+    height: 42px;
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 21px;
+    letter-spacing: 0.05em;
+    margin-left: 50px;
+    margin-top: -10px;
+    width: 120px;
+  }
+
+  .text {
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 8px;
+    line-height: 21px;
+    letter-spacing: 0.05em;
+    margin-left: 12px;
+    width: 180px;
+  }
+
+  .styling2 {
+    margin-top: 10px;
+  }
+
+  .styling3 {
+    margin-top: 10px;
+  }
+
+  .medsos {
+    margin-left: 10px;
+    margin-top: 450px;
+    display: none;
+  }
+
+  .fb {
+    width: 40px;
+    height: 30px;
+  }
+
+  .twitt {
+    width: 40px;
+    height: 30px;
+  }
+
+  .ig {
+    width: 40px;
+    height: 30px;
+  }
+
+  .yt {
+    width: 40px;
+    height: 30px;
+  }
+
+  .sosmed {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    margin-left: 85px;
+    margin-top: -105px;
+  }
+
+  .end {
+    margin-top: 10px;
+    display: none;
+  }
+
+  .text-akhir {
+    font-size: 10px;
+  }
+}

@@ -1,0 +1,690 @@
+.bungkus {
+  margin-top: 150px;
+}
+
+.visi {
+  width: 822px !important;
+  height: 578px !important;
+  margin-left: -130px;
+}
+
+.kotakvisi-svg {
+  margin-left: 160px;
+  margin-top: 50px;
+}
+
+.visi-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 35px;
+  line-height: 41px;
+  margin-left: 222px;
+  margin-top: -52px;
+  color: #fff;
+  letter-spacing: 0.05em;
+}
+
+.visi-main {
+  width: 642px;
+  height: 312px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  text-align: center;
+  color: #000000;
+  margin-top: 30px;
+  margin-left: 120px;
+}
+
+.kotakmisi-svg {
+  margin-top: 30px;
+  width: 702px;
+  height: 624px;
+}
+
+.misi-title {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 35px;
+  line-height: 41px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.05em;
+  margin-top: -610px;
+  margin-left: 480px;
+  color: #000000;
+}
+
+.misi-main {
+  width: 603px;
+  height: 570px;
+  left: 199px;
+  top: 2992px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 21px;
+  line-height: 150%;
+  text-align: center;
+  color: #ffffff;
+  margin-top: 20px;
+  margin-left: 45px;
+}
+
+.misi {
+  width: 722px !important;
+  height: 478px !important;
+  margin-left: 130px;
+  margin-top: 90px;
+}
+
+@media screen and (max-width: 1399.98px) {
+  .bungkus {
+    margin-top: 150px;
+  }
+
+  .visi {
+    width: 792px !important;
+    height: 548px !important;
+    margin-left: -160px;
+  }
+
+  .kotakvisi-svg {
+    margin-left: 550px;
+    margin-top: -950px;
+  }
+
+  .visi-title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 41px;
+    margin-left: 615px;
+    margin-top: -505px;
+    color: #fff;
+    letter-spacing: 0.05em;
+  }
+
+  .visi-main {
+    width: 642px;
+    height: 312px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    text-align: center;
+    color: #000000;
+    margin-top: 30px;
+    margin-left: 490px;
+  }
+
+  .kotakmisi-svg {
+    margin-top: 30px;
+    width: 702px;
+    height: 624px;
+    margin-left: -50px;
+  }
+
+  .misi-title {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 41px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.05em;
+    margin-top: -610px;
+    margin-left: 430px;
+    color: #000000;
+  }
+
+  .misi-main {
+    width: 603px;
+    height: 570px;
+    left: 199px;
+    top: 2992px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 150%;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 20px;
+    margin-left: 0px;
+  }
+
+  .misi {
+    width: 552px !important;
+    height: 398px !important;
+    margin-left: 175px;
+    margin-top: 130px;
+  }
+}
+
+@media screen and (max-width: 1199.98px) {
+  .bungkus {
+    margin-top: 110px;
+  }
+
+  .visi {
+    width: 722px !important;
+    height: 518px !important;
+    margin-left: -200px;
+  }
+
+  .kotakvisi-svg {
+    margin-left: 460px;
+    margin-top: -950px;
+  }
+
+  .visi-title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 41px;
+    margin-left: 525px;
+    margin-top: -505px;
+    color: #fff;
+    letter-spacing: 0.05em;
+  }
+
+  .visi-main {
+    width: 642px;
+    height: 312px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    text-align: center;
+    color: #000000;
+    margin-top: 30px;
+    margin-left: 380px;
+  }
+
+  .kotakmisi-svg {
+    margin-top: 30px;
+    width: 702px;
+    height: 624px;
+    margin-left: -100px;
+  }
+
+  .misi-title {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 41px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.05em;
+    margin-top: -610px;
+    margin-left: 380px;
+    color: #000000;
+  }
+
+  .misi-main {
+    width: 603px;
+    height: 570px;
+    left: 199px;
+    top: 2992px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 150%;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 20px;
+    margin-left: -50px;
+  }
+
+  .misi {
+    width: 562px !important;
+    height: 398px !important;
+    margin-left: 190px;
+    position: absolute;
+    margin-top: 130px;
+  }
+}
+
+@media screen and (max-width: 991.98px) {
+  .bungkus {
+    margin-top: 90px;
+  }
+
+  .visi {
+    width: 622px !important;
+    height: 418px !important;
+    margin-left: -260px;
+  }
+
+  .kotakvisi-svg {
+    width: 150px;
+    height: 150px;
+    margin-left: 330px;
+    margin-top: -780px;
+  }
+
+  .visi-title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 41px;
+    margin-left: 375px;
+    margin-top: -420px;
+    color: #fff;
+    letter-spacing: 0.05em;
+  }
+
+  .visi-main {
+    width: 592px;
+    height: 302px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    text-align: center;
+    color: #000000;
+    margin-top: 30px;
+    margin-left: 230px;
+  }
+
+  .kotakmisi-svg {
+    margin-top: 30px;
+    width: 502px;
+    height: 494px;
+    margin-left: -100px;
+  }
+
+  .misi-title {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 41px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.05em;
+    margin-top: -480px;
+    margin-left: 245px;
+    color: #000000;
+  }
+
+  .misi-main {
+    width: 493px;
+    height: 500px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 20px;
+    margin-left: -95px;
+  }
+
+  .misi {
+    width: 522px !important;
+    height: 348px !important;
+    margin-left: 90px;
+    position: absolute;
+    margin-top: 130px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .bungkus {
+    margin-top: 100px;
+  }
+
+  .visi {
+    width: 522px !important;
+    height: 318px !important;
+    margin-left: -160px;
+  }
+
+  .kotakvisi-svg {
+    width: 120px;
+    height: 120px;
+    margin-left: 250px;
+    margin-top: -590px;
+  }
+
+  .visi-title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 41px;
+    margin-left: 285px;
+    margin-top: -325px;
+    color: #fff;
+    letter-spacing: 0.05em;
+  }
+
+  .visi-main {
+    width: 482px;
+    height: 252px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    text-align: center;
+    color: #000000;
+    margin-top: 10px;
+    margin-left: 220px;
+  }
+
+  .kotakmisi-svg {
+    margin-top: 30px;
+    width: 372px;
+    height: 384px;
+    margin-left: -10px;
+  }
+
+  .misi-title {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 41px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.05em;
+    margin-top: -380px;
+    margin-left: 243px;
+    color: #000000;
+  }
+
+  .misi-main {
+    width: 377px;
+    height: 384px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12.5px;
+    line-height: 150%;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 10px;
+    margin-left: -15px;
+  }
+
+  .misi {
+    width: 422px !important;
+    height: 248px !important;
+    margin-left: 50px;
+    position: absolute;
+    margin-top: 130px;
+  }
+}
+
+@media screen and (max-width: 575.98px) {
+  .bungkus {
+    margin-top: 50px;
+  }
+
+  .visi {
+    width: 422px !important;
+    height: 218px !important;
+    margin-left: -120px;
+  }
+
+  .kotakvisi-svg {
+    width: 100px;
+    height: 100px;
+    margin-left: 190px;
+    margin-top: -400px;
+  }
+
+  .visi-title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 41px;
+    margin-left: 220px;
+    margin-top: -230px;
+    color: #fff;
+    letter-spacing: 0.05em;
+  }
+
+  .visi-main {
+    width: 342px;
+    height: 152px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    text-align: center;
+    color: #000000;
+    margin-top: 10px;
+    margin-left: 180px;
+  }
+
+  .kotakmisi-svg {
+    margin-top: -10px;
+    width: 282px;
+    height: 384px;
+    margin-left: 10px;
+  }
+
+  .misi-title {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 41px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.05em;
+    margin-top: -330px;
+    margin-left: 200px;
+    color: #000000;
+  }
+
+  .misi-main {
+    width: 280px;
+    height: 394px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 9.5px;
+    line-height: 150%;
+    text-align: center;
+    color: #ffffff;
+    margin-top: -15px;
+    margin-left: 10px;
+  }
+
+  .misi {
+    width: 312px !important;
+    height: 228px !important;
+    margin-left: 70px;
+    position: absolute;
+    margin-top: 90px;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .bungkus {
+    margin-top: 50px;
+  }
+
+  .visi {
+    width: 322px !important;
+    height: 178px !important;
+    margin-left: -90px;
+  }
+
+  .kotakvisi-svg {
+    width: 90px;
+    height: 90px;
+    margin-left: 150px;
+    margin-top: -320px;
+  }
+
+  .visi-title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 41px;
+    margin-left: 178px;
+    margin-top: -190px;
+    color: #fff;
+    letter-spacing: 0.05em;
+  }
+
+  .visi-main {
+    width: 242px;
+    height: 142px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    text-align: center;
+    color: #000000;
+    margin-top: -10px;
+    margin-left: 140px;
+  }
+
+  .kotakmisi-svg {
+    margin-top: -10px;
+    width: 242px;
+    height: 324px;
+    margin-left: 10px;
+  }
+
+  .misi-title {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 41px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.05em;
+    margin-top: -285px;
+    margin-left: 174px;
+    color: #000000;
+  }
+
+  .misi-main {
+    width: 230px;
+    height: 394px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 8px;
+    line-height: 150%;
+    text-align: center;
+    color: #ffffff;
+    margin-top: -15px;
+    margin-left: 15px;
+  }
+
+  .misi {
+    width: 282px !important;
+    height: 158px !important;
+    margin-left: 50px;
+    position: absolute;
+    margin-top: 90px;
+  }
+}
+
+@media screen and (max-width: 280px) {
+  .bungkus {
+    margin-top: 20px;
+  }
+
+  .visi {
+    width: 282px !important;
+    height: 118px !important;
+    margin-left: -80px;
+  }
+
+  .kotakvisi-svg {
+    width: 60px;
+    height: 60px;
+    margin-left: 110px;
+    margin-top: -220px;
+  }
+
+  .visi-title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 41px;
+    margin-left: 128px;
+    margin-top: -140px;
+    color: #fff;
+    letter-spacing: 0.05em;
+  }
+
+  .visi-main {
+    width: 142px;
+    height: 196px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 6px;
+    text-align: center;
+    color: #000000;
+    margin-top: -10px;
+    margin-left: 110px;
+  }
+
+  .kotakmisi-svg {
+    margin-top: -130px;
+    width: 142px;
+    height: 224px;
+    margin-left: -7px;
+  }
+
+  .misi-title {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 41px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.05em;
+    margin-top: -195px;
+    margin-left: 84px;
+    color: #000000;
+  }
+
+  .misi-main {
+    width: 140px;
+    height: 224px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 4.8px;
+    line-height: 150%;
+    text-align: center;
+    color: #ffffff;
+    margin-top: -21px;
+    margin-left: -5px;
+  }
+
+  .misi {
+    width: 182px !important;
+    height: 108px !important;
+    margin-left: 5px;
+    position: absolute;
+    margin-top: -70px;
+  }
+}

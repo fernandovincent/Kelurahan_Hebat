@@ -1,0 +1,27 @@
+.card {
+  border-radius: 0px 0px 0px 0px;
+}
+
+.card-body {
+  background-color: #ff0000;
+}
+
+.card-text {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 26px;
+  letter-spacing: 0.05em;
+  color: #ffffff;
+}
+
+.card-text1 {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.05em;
+  color: #ffffff;
+}

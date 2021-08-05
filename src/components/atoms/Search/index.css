@@ -1,0 +1,163 @@
+.search {
+  margin-top: 50px;
+  width: 655px;
+  height: 53px;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  border-radius: 16px;
+  font-size: 22px;
+  font-family: "Raleway";
+  font-weight: 300;
+  line-height: 26px;
+  letter-spacing: 0.05em;
+  color: #8d8d8d;
+  padding-left: 30px;
+  margin-left: 400px;
+  margin-bottom: 155px;
+}
+
+.btn {
+  margin-bottom: 9px;
+}
+
+@media screen and (max-width: 1399.98px) {
+  .search {
+    margin-top: 50px;
+    width: 855px;
+    height: 60px;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 16px;
+    font-size: 22px;
+    font-family: "Raleway";
+    font-weight: 300;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    color: #8d8d8d;
+    padding-left: 30px;
+    margin-left: 225px;
+  }
+}
+
+@media screen and (max-width: 1199.98px) {
+  .search {
+    margin-top: 50px;
+    width: 655px;
+    height: 53px;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 16px;
+    font-size: 22px;
+    font-family: "Raleway";
+    font-weight: 300;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    color: #8d8d8d;
+    padding-left: 30px;
+    margin-left: 260px;
+  }
+}
+
+@media screen and (max-width: 991.98px) {
+  .search {
+    margin-top: 50px;
+    width: 655px;
+    height: 53px;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 16px;
+    font-size: 22px;
+    font-family: "Raleway";
+    font-weight: 300;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    color: #8d8d8d;
+    padding-left: 30px;
+    margin-left: 145px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .search {
+    margin-top: 50px;
+    width: 555px;
+    height: 53px;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 16px;
+    font-size: 22px;
+    font-family: "Raleway";
+    font-weight: 300;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    color: #8d8d8d;
+    padding-left: 30px;
+    margin-left: 75px;
+  }
+}
+
+@media screen and (max-width: 575.98px) {
+  .search {
+    margin-top: 50px;
+    width: 425px;
+    height: 45px;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 16px;
+    font-size: 18px;
+    font-family: "Raleway";
+    font-weight: 300;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    color: #8d8d8d;
+    padding-left: 30px;
+    margin-left: 40px;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .search {
+    margin-top: 15px;
+    width: 255px;
+    height: 50px;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 16px;
+    font-size: 16px;
+    font-family: "Raleway";
+    font-weight: 300;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    color: #8d8d8d;
+    padding-left: 20px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+  }
+
+  .btn {
+    margin-top: 5px;
+  }
+}
+
+@media screen and (max-width: 280px) {
+  .search {
+    margin-top: 15px;
+    width: 180px;
+    height: 45px;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 16px;
+    font-size: 12px;
+    font-family: "Raleway";
+    font-weight: 300;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    color: #8d8d8d;
+    padding-left: 20px;
+    margin-left: 10px;
+  }
+
+  .btn {
+    margin-top: 5px;
+  }
+}

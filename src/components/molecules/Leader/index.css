@@ -1,0 +1,617 @@
+.Walikota-pic {
+  width: 336px;
+  height: 332px;
+  margin-bottom: 42px;
+  margin-left: 360px;
+}
+
+.Wakil-pic {
+  width: 365px;
+  height: 369px;
+  margin-left: 133px;
+}
+
+.Walikota-name {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 34px;
+  line-height: 40px;
+  letter-spacing: 0.05em;
+  color: #000000;
+  position: absolute;
+  margin-left: 320px;
+}
+
+.Wakil-name {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 34px;
+  line-height: 40px;
+  letter-spacing: 0.05em;
+  color: #000000;
+  margin-left: 820px;
+}
+
+.Jabatan1 {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  letter-spacing: 0.05em;
+  position: absolute;
+  margin-left: 410px;
+  color: #000000;
+}
+
+.Jabatan2 {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  letter-spacing: 0.05em;
+  color: #000000;
+  margin-left: 870px;
+}
+
+.visiMisi {
+  margin-top: 50px;
+  margin-left: 500px;
+}
+
+.selengkapnya {
+  display: grid;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  color: #000000;
+  margin-top: 20px;
+  justify-content: center;
+}
+
+@media screen and (max-width: 1399.98px) {
+  .Walikota-pic {
+    width: 344px;
+    height: 340px;
+    margin-bottom: 45px;
+    margin-left: 260px;
+  }
+
+  .Wakil-pic {
+    width: 373px;
+    height: 377px;
+    margin-left: 133px;
+  }
+
+  .Walikota-name {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 40px;
+    letter-spacing: 0.05em;
+    color: #000000;
+    position: absolute;
+    margin-left: 245px;
+    margin-top: -20px;
+  }
+
+  .Wakil-name {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 40px;
+    letter-spacing: 0.05em;
+    color: #000000;
+    margin-left: 740px;
+    margin-top: -20px;
+  }
+
+  .Jabatan1 {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+    position: absolute;
+    margin-left: 350px;
+    color: #000000;
+  }
+
+  .Jabatan2 {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+    color: #000000;
+    margin-left: 800px;
+  }
+
+  .visiMisi {
+    margin-top: 50px;
+    margin-left: 400px;
+  }
+}
+
+@media screen and (max-width: 1199.98px) {
+  .Walikota-pic {
+    width: 336px;
+    height: 332px;
+    margin-bottom: 45px;
+    margin-left: 195px;
+  }
+
+  .Wakil-pic {
+    width: 365px;
+    height: 369px;
+    margin-left: 133px;
+  }
+
+  .Walikota-name {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 40px;
+    letter-spacing: 0.05em;
+    color: #000000;
+    position: absolute;
+    margin-left: 175px;
+  }
+
+  .Wakil-name {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 40px;
+    letter-spacing: 0.05em;
+    color: #000000;
+    margin-left: 670px;
+  }
+
+  .Jabatan1 {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+    position: absolute;
+    margin-left: 280px;
+    color: #000000;
+  }
+
+  .Jabatan2 {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+    color: #000000;
+    margin-left: 730px;
+  }
+
+  .visiMisi {
+    margin-top: 50px;
+    margin-left: 340px;
+  }
+}
+
+@media screen and (max-width: 991.98px) {
+  .Walikota-pic {
+    width: 316px;
+    height: 332px;
+    margin-bottom: 45px;
+    margin-left: 105px;
+  }
+
+  .Wakil-pic {
+    width: 345px;
+    height: 369px;
+    margin-left: 133px;
+  }
+
+  .Walikota-name {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 40px;
+    letter-spacing: 0.05em;
+    color: #000000;
+    position: absolute;
+    margin-left: 115px;
+    margin-top: -50px;
+  }
+
+  .Wakil-name {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 40px;
+    letter-spacing: 0.05em;
+    color: #000000;
+    margin-left: 580px;
+    margin-top: -50px;
+  }
+
+  .Jabatan1 {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+    position: absolute;
+    margin-left: 180px;
+    color: #000000;
+  }
+
+  .Jabatan2 {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+    color: #000000;
+    margin-left: 605px;
+  }
+
+  .visiMisi {
+    margin-top: 50px;
+    margin-left: 228px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .Walikota-pic {
+    width: 280px;
+    height: 262px;
+    margin-bottom: 45px;
+    margin-left: 70px;
+  }
+
+  .Wakil-pic {
+    position: absolute;
+    width: 295px;
+    height: 290px;
+    margin-left: 72px;
+  }
+
+  .Walikota-name {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 40px;
+    letter-spacing: 0.05em;
+    color: #000000;
+    position: absolute;
+    margin-left: 80px;
+    margin-top: -50px;
+  }
+
+  .Wakil-name {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 40px;
+    letter-spacing: 0.05em;
+    color: #000000;
+    margin-left: 450px;
+    margin-top: -50px;
+  }
+
+  .Jabatan1 {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+    position: absolute;
+    margin-left: 140px;
+    margin-top: -10px;
+    color: #000000;
+  }
+
+  .Jabatan2 {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+    color: #000000;
+    margin-left: 470px;
+    margin-top: -10px;
+  }
+
+  .visiMisi {
+    margin-top: 50px;
+    margin-left: 125px;
+  }
+
+  .selengkapnya {
+    display: grid;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+    margin-top: 20px;
+    justify-content: center;
+  }
+}
+
+@media screen and (max-width: 575.98px) {
+  .Walikota-pic {
+    width: 250px;
+    height: 222px;
+    margin-bottom: 45px;
+    margin-left: 25px;
+  }
+
+  .Wakil-pic {
+    position: absolute;
+    width: 265px;
+    height: 250px;
+    margin-left: 20px;
+  }
+
+  .Walikota-name {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 40px;
+    letter-spacing: 0.05em;
+    color: #000000;
+    position: absolute;
+    margin-left: 50px;
+    margin-top: -50px;
+  }
+
+  .Wakil-name {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 40px;
+    letter-spacing: 0.05em;
+    color: #000000;
+    margin-left: 325px;
+    margin-top: -50px;
+  }
+
+  .Jabatan1 {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+    position: absolute;
+    margin-left: 90px;
+    margin-top: -10px;
+    color: #000000;
+  }
+
+  .Jabatan2 {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+    color: #000000;
+    margin-left: 335px;
+    margin-top: -10px;
+  }
+
+  .visiMisi {
+    margin-top: 50px;
+    margin-left: 85px;
+    width: 400px;
+    height: 120px;
+  }
+
+  .selengkapnya {
+    display: grid;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 21px;
+    color: #000000;
+    margin-top: 20px;
+    justify-content: center;
+    margin-bottom: -70px;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .Walikota-pic {
+    width: 180px;
+    height: 162px;
+    margin-bottom: 45px;
+    margin-left: 5px;
+  }
+
+  .Wakil-pic {
+    position: absolute;
+    width: 185px;
+    height: 190px;
+    margin-left: 20px;
+  }
+
+  .Walikota-name {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 40px;
+    letter-spacing: 0.05em;
+    color: #000000;
+    position: absolute;
+    margin-left: 5px;
+    margin-top: -50px;
+  }
+
+  .Wakil-name {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 40px;
+    letter-spacing: 0.05em;
+    color: #000000;
+    margin-left: 205px;
+    margin-top: -50px;
+  }
+
+  .Jabatan1 {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+    position: absolute;
+    margin-left: 45px;
+    margin-top: -10px;
+    color: #000000;
+  }
+
+  .Jabatan2 {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+    color: #000000;
+    margin-left: 214px;
+    margin-top: -10px;
+  }
+
+  .visiMisi {
+    width: 400px;
+    height: 120px;
+    margin-top: 30px;
+    margin-left: 8px;
+  }
+
+  .selengkapnya {
+    display: grid;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    color: #000000;
+    margin-top: 5px;
+    justify-content: center;
+    margin-bottom: -100px;
+  }
+}
+
+@media screen and (max-width: 280px) {
+  .Walikota-pic {
+    width: 140px;
+    height: 132px;
+    margin-bottom: 45px;
+    margin-left: -5px;
+  }
+
+  .Wakil-pic {
+    position: absolute;
+    width: 155px;
+    height: 150px;
+    margin-left: -5px;
+  }
+
+  .Walikota-name {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 40px;
+    letter-spacing: 0.05em;
+    color: #000000;
+    position: absolute;
+    margin-left: 5px;
+    margin-top: -50px;
+  }
+
+  .Wakil-name {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 40px;
+    letter-spacing: 0.05em;
+    color: #000000;
+    margin-left: 150px;
+    margin-top: -50px;
+  }
+
+  .Jabatan1 {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 8px;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+    position: absolute;
+    margin-left: 33px;
+    margin-top: -25px;
+    color: #000000;
+  }
+
+  .Jabatan2 {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 8px;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+    color: #000000;
+    margin-left: 160px;
+    margin-top: -25px;
+  }
+
+  .visiMisi {
+    width: 250px;
+    height: 130px;
+    margin-top: -10px;
+    margin-left: 20px;
+  }
+
+  .selengkapnya {
+    display: grid;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 21px;
+    color: #000000;
+    margin-top: -25px;
+    justify-content: center;
+  }
+}
